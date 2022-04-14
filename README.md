@@ -1,2 +1,2 @@
-# digital_circuit_mini_program
-In this repository,I'will writing a mini program.
+# 数电小帮手
+可在微信搜索“数电小帮手”查看该小程序，源代码打包到mini_program.zip中。
